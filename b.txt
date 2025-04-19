@@ -1,2 +1,3 @@
 
 B file
+B file in b2
