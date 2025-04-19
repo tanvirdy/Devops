@@ -1,3 +1,4 @@
 
-B file
-B file in b1
+
+B file in b2
+
